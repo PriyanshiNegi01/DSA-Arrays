@@ -1,5 +1,1 @@
-# DSA in Java
-
-## Topics
-1. Arrays
-2. Linked Lists
+# DSA in Java - Arrays

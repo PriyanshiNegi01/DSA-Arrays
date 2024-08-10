@@ -1,3 +1,0 @@
-# Leetcode
-
-Language used: Java

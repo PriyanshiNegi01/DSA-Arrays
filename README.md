@@ -19,10 +19,9 @@
 5. ColNoFixed
 6. ArrayListExample
 7. MultiArrayList
-8. Swap
-9. Max
-10. Swap
-11. Reverse
+8. Max
+9. Swap
+10. Reverse
 
 ## Leetcode
 
